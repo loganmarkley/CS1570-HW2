@@ -1,7 +1,7 @@
-Score: 99
+Score: 97
 
 Notes:
-- Does not properly identify if letter is in correct spot (only in the last character spot). (-1)
+- Does not properly identify if letter is in correct spot (only in the last character spot). (-3)
   - Correct word: START
   - It shows that T is in the word, but not in that specific spot.
 ```
